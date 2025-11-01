@@ -13,6 +13,7 @@ Large	dataset7	25	63	Large Mixed	Yes	10	Dense
 Large	dataset8	35	100	Large Dense	Yes	8	Dense
 Large	dataset9	20	30	Large Sparse	No
 
+
 1.2 Weight Model Justification 
 Edge-based weights were chosen because: 
 • Better represents dependencies between city-service tasks 
